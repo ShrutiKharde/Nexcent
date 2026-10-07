@@ -1,11 +1,11 @@
 import React from 'react'
-import Client1 from '../assets/client1.svg';
-import Client2 from '../assets/client2.svg';
-import Client3 from '../assets/client3.svg';
-import Client4 from '../assets/client4.svg';
-import Client5 from '../assets/client5.svg';
-import Client6 from '../assets/client6.svg';
-import Client7 from '../assets/client7.svg';
+import Client1 from './client1.svg';
+import Client2 from './client2.svg';
+import Client3 from './client3.svg';
+import Client4 from './client4.svg';
+import Client5 from './client5.svg';
+import Client6 from './client6.svg';
+import Client7 from './client7.svg';
 
 const Client = () => {
   return (
