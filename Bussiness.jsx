@@ -1,8 +1,8 @@
 import React from 'react'
-import member from'../assets/member.svg';
-import club from'../assets/clubs.svg';
-import event from'../assets/event.svg';
-import payment from'../assets/payment.svg';
+import member from'./member.svg';
+import club from'./clubs.svg';
+import event from'./event.svg';
+import payment from'./payment.svg';
 
 const Bussiness = () => {
   return (
